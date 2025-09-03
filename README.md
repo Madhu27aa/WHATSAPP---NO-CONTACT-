@@ -1,6 +1,6 @@
 
 
-You can check out the live demo of Rapid WhatsApp [here](https://vishesh-pandey.github.io/rapid-whatsapp/).
+You can check out the live demo of Rapid WhatsApp [here](//vishesthub.io/rapid-whatsapp/).
 
 To get started with Rapid WhatsApp, follow these steps:
 
